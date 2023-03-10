@@ -1,0 +1,1 @@
+INSERT INTO customers VALUES (1, 'Australia, Kangaroo street, 1', 10000.00, 'Ivan', 'Ivanov')
